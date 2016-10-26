@@ -17,7 +17,6 @@ const onDeleteSuccess = function () {
 };
 
 const onUpdateSuccess = function () {
-  debugger;
   console.log('Book was successfully Updated.');
 };
 
